@@ -1,0 +1,24 @@
+{
+  "name": "nodemon",
+  "version": "1.0.0",
+  "description": "Week 2 first node demo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rajashekar-Sudireddy/COMP_229_301165893.git"
+  },
+  "author": "301165893",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rajashekar-Sudireddy/COMP_229_301165893/issues"
+  },
+  "homepage": "https://github.com/Rajashekar-Sudireddy/COMP_229_301165893#readme",
+  "dependencies": {
+    "connect": "^3.7.0",
+    "express": "^4.17.1"
+  }
+}
